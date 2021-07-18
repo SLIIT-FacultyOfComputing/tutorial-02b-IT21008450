@@ -17,6 +17,7 @@ long Factorial(int no);
 long nCr(int n, int r);
 
 int main() {
+  
   int n, r;
   std::cout << "Enter a value for n ";
   std::cin >> n;
